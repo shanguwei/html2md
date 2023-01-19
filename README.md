@@ -11,7 +11,7 @@ hexo搭建的博客本地文件丢失后，只能从服务器的html文件转换
 
 将需要恢复的md文件放置于old_blog文件夹，如图：
 
-![1](.\image\1.png)
+![](https://github.com/shanguwei/html2md/blob/main/image/1.png)
 
 直接运行脚本即可。
 
@@ -21,9 +21,10 @@ hexo搭建的博客本地文件丢失后，只能从服务器的html文件转换
 
 我这里是直接爬下来的，所以自带title，后续补上脚本
 
-![2](.\image\2.png)
+![](https://github.com/shanguwei/html2md/blob/main/image/2.png)
 
 恢复后：
 
-![3](.\image\3.png)
 
+
+![](https://github.com/shanguwei/html2md/blob/main/image/3.png)
